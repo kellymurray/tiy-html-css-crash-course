@@ -57,11 +57,9 @@ class: center, middle, inverse
 
 ## You might want to use...
 
-```<body></body>```
-```<h1></h1>```
-```<p></p>```
-```<img src="">```
-```<a href="">```
+* body
+* h1, h2, h3
+* p
 
 ---
 class: center, middle, inverse
