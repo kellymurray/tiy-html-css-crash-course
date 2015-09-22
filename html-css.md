@@ -11,11 +11,10 @@ class: middle
 * Taught first HTML class when I was 13
 * I made this site when I was 13 and it continues to haunt my nightmares
 
-class: center
-
+<center>
 ![What is this monstrosity](http://i.imgur.com/mdVRr5x.png)
 
-Midi music! Scrolling text! Frames!!!!
+Midi music! Scrolling text! Frames!!!!</center>
 
 ---
 class: center, middle, inverse
