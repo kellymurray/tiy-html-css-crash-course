@@ -36,13 +36,17 @@ HTML provides a structure for your site - a skeleton of content.
 ![spooky](http://i.imgur.com/H6B0LWo.png)
 
 ---
-class: center, middle
+class: middle
 
 ```HTML
 <element="attribute"> </closetag>
 ```
 
-Let's check out at an [example]() and get building.
+```HTML
+  <p>Cats are cool!</p>
+```
+
+Let's check out at an [example](http://kellymurray.github.io/tiy-html-css-crash-course/) and get building.
 
 ---
 class: center, middle, inverse
