@@ -29,11 +29,11 @@ class: middle
 * HTML is a **Language**, as it has code-words and syntax like any other language.
 
 ---
-class: center, middle
+class: center
 
 HTML provides a structure for your site - a skeleton of content.
 
-![spooky!](http://i.imgur.com/H6B0LWo.png)
+![spooky](http://i.imgur.com/H6B0LWo.png)
 
 ---
 class: center, middle
@@ -58,7 +58,7 @@ What does HTML provide for your site? (hint: skeleton)
 
 ---
 class: middle
-### What is CSS?
+## What is CSS?
 
 * Cascading Style Sheets.
 
@@ -88,8 +88,22 @@ class: middle
 			}
 ```
 ---
+class: middle, center, inverse
+## Let's add some CSS for our intrepid heroes.
 
-### Let's look at the page again and add css
-  - take suggestions from the audience
+---
+class: middle, center, inverse
 
-### Now let's make your site beautiful.
+## Now let's make your site beautiful.
+
+---
+class: middle, center, inverse
+
+## Pop Quiz!
+
+Should you write HTML or CSS first?
+
+---
+class: middle, center
+
+Thank you for coming! Please keep playing around with your sites!
