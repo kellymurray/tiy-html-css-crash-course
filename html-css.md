@@ -50,7 +50,13 @@ class: middle
   <p>Cats are cool!</p>
 ```
 
-Let's check out at an [example](http://kellymurray.github.io/tiy-html-css-crash-course/) and get building.
+And sometimes there's self-closing tags...
+
+```HTML
+<img src="http://placebear.com/g/400/200" />
+```
+
+Let's check out at an [example](http://kellymurray.github.io/tiy-html-css-crash-course/).
 
 ---
 class: center, middle, inverse
