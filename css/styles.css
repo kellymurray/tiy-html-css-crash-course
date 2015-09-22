@@ -1,8 +1,27 @@
 body {
-  background-color: #EEEEEE;
+  background-color: #FFFFFF;
   font-size: 18px;
   font-family: Helvetica, Verdana, serif;
   color: #444;
   line-height: 1.6;
+}
+
+#wrapper {
+  max-width: 650px;
   margin: 40px auto;
-};
+}
+
+#top {
+  background: #4183D7;
+  padding: 20px;
+  margin-bottom: 25px;
+  color: #FFF;
+  font-size: 45px;
+  font-family: Helvetica;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+  color: #4183D7;
+}
