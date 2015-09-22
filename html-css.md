@@ -3,6 +3,8 @@ class: center, middle
 ![The Iron Yard Shield](http://i.imgur.com/qvZMscb.png)
 
 ---
+class: middle
+
 ## About Me
 
 * Started coding at 12
@@ -27,44 +29,65 @@ class: middle
 * HTML is a **Language**, as it has code-words and syntax like any other language.
 
 ---
+class: center, middle
+
+HTML provides a structure for your site - a skeleton of content.
+
+---
+class: center, middle
+
+```HTML
+<element="attribute"> </closetag>
+```
+
+Let's check out at an [example]() and get building.
+
+---
 class: center, middle, inverse
 
-HTML provides a structure for your site - a skeleton.
-
-Let's check out at an [example]().
+## Now it's your turn!
 
 ---
+class: center, middle, inverse
 
+## Pop Quiz!
 
-### What can HTML do?
-
-### Basics of HTML
-
-### Some HTML tags you should know
-
-### Let's look at this page
-  - navigate to the page
-  - break it down step by step
-
-### Now, let's take five minutes so you can play with the tags already there
+What does HTML provide for your site? (hint: skeleton)
 
 ---
-
+class: middle
 ### What is CSS?
 
-### What's the difference between CSS and HTML?
+* Cascading Style Sheets.
 
-### What can CSS do?
+* CSS defines how HTML elements are displayed. It can't be used without HTML.
 
-### Some CSS selectors you should know
+* Primary purpose: separating content from design.
+
+* CSS should always be written after your basic HTML.
+
+---
+class: middle
+## CSS Selectors
+
+* What is a selector and how does it look on the page?
+
+	* Basic CSS consists of three parts:
+
+```css
+			selector {
+				property: value;
+			}
+```
+```css
+			body {
+  			background: DodgerBlue;
+  			font-family: "Trebuchet MS", Verdana, serif;
+			}
+```
+---
 
 ### Let's look at the page again and add css
   - take suggestions from the audience
 
-### Now let's take five minutes so you can play with the selectors
-
----
-
-Final Project: Build this Site!
-
-Using CodePen, see if you can start building this site
+### Now let's make your site beautiful.
