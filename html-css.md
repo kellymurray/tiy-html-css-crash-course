@@ -76,6 +76,7 @@ class: middle
 * body
 * h1, h2, h3
 * p
+* links
 
 ---
 class: center, middle, inverse
