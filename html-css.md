@@ -54,6 +54,16 @@ class: center, middle, inverse
 ## Now it's your turn!
 
 ---
+
+## You might want to use...
+
+```<body></body>```
+```<h1></h1>```
+```<p></p>```
+```<img src="">```
+```<a href="">```
+
+---
 class: center, middle, inverse
 
 ## Pop Quiz!
@@ -100,6 +110,12 @@ class: middle, center, inverse
 
 ## Now let's make your site beautiful.
 
+---
+## You might want to use...
+
+``font-size``
+``background``
+``color```
 ---
 class: middle, center, inverse
 
