@@ -54,7 +54,7 @@ class: center, middle, inverse
 ## Now it's your turn!
 
 ---
-
+class: middle, center
 ## You might want to use...
 
 * body
@@ -109,11 +109,13 @@ class: middle, center, inverse
 ## Now let's make your site beautiful.
 
 ---
+class: middle, center
 ## You might want to use...
 
-``font-size``
-``background``
-``color```
+* font-size
+* background
+* color
+
 ---
 class: middle, center, inverse
 
