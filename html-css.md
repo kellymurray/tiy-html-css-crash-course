@@ -41,8 +41,10 @@ HTML provides a structure for your site - a skeleton of content.
 ---
 class: middle
 
+## What does HTML look like?
+
 ```HTML
-<tag-name attribute-name="attribute value">
+<tag-name="attribute value">
   <! -- tag contents -->
 </tag-name>
 ```
