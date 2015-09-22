@@ -9,8 +9,11 @@ class: middle
 
 * Started coding at 12
 * Taught first HTML class when I was 13
+* I made this site when I was 13 and it continues to haunt my nightmares
 
-[What is this monstrosity]()
+[What is this monstrosity](http://i.imgur.com/grDmHjC.png)
+
+Midi music! Scrolling text! Frames!!!!
 
 ---
 class: center, middle, inverse
@@ -39,7 +42,8 @@ HTML provides a structure for your site - a skeleton of content.
 class: middle
 
 ```HTML
-<element="attribute"> </closetag>
+<element="attribute">
+</closetag>
 ```
 
 ```HTML
@@ -54,7 +58,7 @@ class: center, middle, inverse
 ## Now it's your turn!
 
 ---
-class: middle, center
+class: middle
 ## You might want to use...
 
 * body
@@ -109,7 +113,7 @@ class: middle, center, inverse
 ## Now let's make your site beautiful.
 
 ---
-class: middle, center
+class: middle
 ## You might want to use...
 
 * font-size
