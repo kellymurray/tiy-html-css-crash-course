@@ -11,10 +11,9 @@ class: middle
 * Taught first HTML class when I was 13
 * I made this site when I was 13 and it continues to haunt my nightmares
 
-<center>
 ![What is this monstrosity](http://i.imgur.com/mdVRr5x.png)
 
-Midi music! Scrolling text! Frames!!!!</center>
+Midi music! Scrolling text! Frames!!!!
 
 ---
 class: center, middle, inverse
