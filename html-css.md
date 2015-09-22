@@ -54,10 +54,10 @@ class: middle
 And sometimes there's self-closing tags...
 
 ```HTML
-<img src="http://placebear.com/g/400/200" />
+<img src="http://placebear.com/g/400/200" alt="bears!!">
 ```
 
-Let's check out at an [example](http://kellymurray.github.io/tiy-html-css-crash-course/).
+Let's check out an [example](http://kellymurray.github.io/tiy-html-css-crash-course/).
 
 ---
 class: center, middle, inverse
