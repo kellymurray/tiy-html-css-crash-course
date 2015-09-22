@@ -33,6 +33,8 @@ class: center, middle
 
 HTML provides a structure for your site - a skeleton of content.
 
+![spooky!](http://i.imgur.com/H6B0LWo.png)
+
 ---
 class: center, middle
 
