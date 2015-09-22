@@ -44,7 +44,7 @@ class: middle
 ```HTML
 <tag-name attribute-name="attribute value">
   <! -- tag contents -->
-</tag-name
+</tag-name>
 ```
 
 ```HTML
