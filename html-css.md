@@ -74,7 +74,8 @@ Following is the basic structure, tagwise, for a basic html document
   <head>
     <title>This is a title</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
-    <!-- The <head> tag usually contains any external CSS stylesheets or meta information about a particular page -->
+    <!-- The <head> tag usually contains any external CSS 
+    stylesheets or meta information about a particular page -->
   </head>
   <body>
   <!-- The <body> tag is where human-viewable content is stored -->
