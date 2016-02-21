@@ -45,7 +45,7 @@ class: middle
 
 ```HTML
 <tag-name="attribute value">
-  <! --tag contents-- >
+  <!--tag contents-->
 </tag-name>
 ```
 ```HTML
@@ -63,6 +63,25 @@ And sometimes there's self-closing tags...
 ```
 
 Let's check out an [example](http://kellymurray.github.io/tiy-html-css-crash-course/).
+
+---
+Following is the basic structure, tagwise, for a basic html document
+
+```html
+<!-- This is a comment -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>This is a title</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <!-- The <head> tag usually contains any external CSS stylesheets or meta information about a particular page -->
+  </head>
+  <body>
+  <!-- The <body> tag is where human-viewable content is stored -->
+  </body>
+</html>
+
+```
 
 ---
 class: center, middle, inverse
@@ -87,15 +106,16 @@ What does HTML provide for your site? (hint: skeleton)
 
 ---
 class: middle
-## What is CSS?
+## Intro to CSS
+* What is CSS and how does it differ from HTML?
 
-* Cascading Style Sheets.
+	* Cascading Style Sheets.
 
-* CSS defines how HTML elements are displayed. It can't be used without HTML.
+	* CSS defines how HTML elements are displayed. It can't be used without HTML.
 
-* Primary purpose: separating content from design.
+	* Primary purpose: separating content from design.
 
-* CSS should always be written after your basic HTML.
+	* CSS should always be written after your basic HTML.
 
 ---
 class: middle
@@ -103,19 +123,36 @@ class: middle
 
 * What is a selector and how does it look on the page?
 
-	* Basic CSS consists of three parts:
+* Basic CSS consists of three parts:
 
 ```css
-			selector {
-				property: value;
-			}
+selector {
+property: value;
+}
 ```
+
+* The selector is the element that you want to style. The property is the actual property title, and the value is the style you apply to that property.
+
+
 ```css
-			body {
-  			background: DodgerBlue;
-  			font-family: "Trebuchet MS", Verdana, serif;
-			}
+body {
+background: DodgerBlue;
+font-family: "Trebuchet MS", Verdana, serif;
+}
 ```
+
+---
+
+```css
+/* This is a CSS comment */
+body {
+  background-color: red;
+  font-size: 20px;
+  font-weight: strong;
+}
+
+```
+
 ---
 class: middle, center, inverse
 ## Let's add some CSS for our intrepid heroes.
