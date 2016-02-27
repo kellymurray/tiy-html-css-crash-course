@@ -12,9 +12,12 @@ class: center, middle
 
 ---
 
-class: center, middle, inverse
+class: center, middle
 
-## What About You?
+## Let's get connected to the internet
+
+Network: TIY-Easley
+Password: TIYeasly16
 
 ---
 class: middle
