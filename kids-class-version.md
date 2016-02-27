@@ -3,6 +3,19 @@ class: center, middle
 ![The Iron Yard Shield](http://i.imgur.com/qvZMscb.png)
 
 ---
+
+class: center, middle
+
+## I'm Kelly, an instructor at The Iron Yard.
+
+* I love building websites
+
+* Playing video games
+
+* And building games
+
+---
+
 class: center, middle, inverse
 
 ## What About You?
