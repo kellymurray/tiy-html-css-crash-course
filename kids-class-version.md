@@ -12,11 +12,12 @@ class: center, middle
 
 ---
 
-class: center, middle
+class: center
 
 ## Let's get connected to the internet
 
 Network: TIY-Easley
+
 Password: TIYeasly16
 
 ---
