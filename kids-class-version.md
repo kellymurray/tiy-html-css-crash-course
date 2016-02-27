@@ -8,11 +8,7 @@ class: center, middle
 
 ## I'm Kelly, an instructor at The Iron Yard.
 
-* I love building websites
-
-* Playing video games
-
-* And building games
+## It's nice to meet you!
 
 ---
 
